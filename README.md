@@ -53,10 +53,6 @@ I'm passionate about building intelligent systems at the intersection of **quant
 
 ![Snake Game](https://github.com/atharvv04/atharvv04/blob/output/snake.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvv04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvv04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-bhatt-0260212b5/) 
@@ -70,8 +66,8 @@ I'm passionate about building intelligent systems at the intersection of **quant
 ## 📈 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{atharvv04}}/{{atharvv04}}/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{atharvv04}}/{{atharvv04}}/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/{{atharvv04}}/{{atharvv04}}/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvv04/atharvv04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharvv04/atharvv04/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atharvv04/atharvv04/output/github-contribution-grid-snake.svg">
 </picture>
 
