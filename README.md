@@ -19,10 +19,8 @@ I'm passionate about building intelligent systems at the intersection of **quant
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![pytorch](https://img.shields.io/static/v1?logo=pytorch&label=&message=pytorch&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![iiit](https://img.shields.io/static/v1?label=&message=IIIT%20Hyderabad&color=111&logoColor=FF0000&style=flat-square)
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - **Algorithmic Trading**
 - **Time series analysis**
@@ -31,7 +29,7 @@ I'm passionate about building intelligent systems at the intersection of **quant
 - **Annotating unstructured multimodal information**
 - **Benchmarking datasets and models**
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**: Python, C++, JavaScript, TypeScript, Rust, R  
 **AI/ML**: PyTorch, TensorFlow, scikit-learn, OpenCV, Keras  
@@ -40,14 +38,14 @@ I'm passionate about building intelligent systems at the intersection of **quant
 **Databases**: PostgreSQL, MongoDB, Redis, SQLite  
 **Tools**: Git, Linux, CUDA, ROS
 
-## 🚀 Projects I've Worked On
+## Projects I've Worked On
 
 [![Quantitative Trading Engine](https://img.shields.io/badge/Quantitative%20Trading%20Engine-Low%20Latency-blue?style=for-the-badge&logo=github)](https://github.com/atharvv04/Quantitative-Low-Latency-Trading-Engine)
-[![Distributed File System](https://img.shields.io/badge/Distributed%20File%20System-Network%20Systems-green?style=for-the-badge&logo=github)](https://github.com/atharvv04/Distributed-Network-File-System)
-[![Enhanced XV6 OS](https://img.shields.io/badge/Enhanced%20XV6%20OS-Operating%20Systems-red?style=for-the-badge&logo=github)](https://github.com/atharvv04/Enhanced-MIT-XV6-Operating-System)
-[![Urban Climate ML](https://img.shields.io/badge/Urban%20Climate%20ML-Data%20Science-orange?style=for-the-badge&logo=github)](https://github.com/atharvv04/Applied-ML-and-Data-Science-for-Urban-Climate-Modeling)
-[![Community Marketplace](https://img.shields.io/badge/Community%20Marketplace-Web%20Portal-purple?style=for-the-badge&logo=github)](https://github.com/atharvv04/IIITH-Community-Marketplace-Portal)
-[![Autonomous Robot](https://img.shields.io/badge/Autonomous%20Robot-Obstacle%20Avoidance-cyan?style=for-the-badge&logo=github)](https://github.com/atharvv04/Autonomous-Obstacle-Avoidance-Robot)
+[![Distributed Linux File System](https://img.shields.io/badge/Distributed%20Linux%20File%20System-Network%20Systems-green?style=for-the-badge&logo=github)](https://github.com/atharvv04/Distributed-Network-File-System)
+[![Enhanced MIT's XV6](https://img.shields.io/badge/Enhanced%20MIT's%20XV6%20OS-Operating%20Systems-red?style=for-the-badge&logo=github)](https://github.com/atharvv04/Enhanced-MIT-XV6-Operating-System)
+[![Urban Climate ML](https://img.shields.io/badge/ML%20and%20DS%20for%20Urban%20Climate%20-ML%20,%20Data%20Science-orange?style=for-the-badge&logo=github)](https://github.com/atharvv04/Applied-ML-and-Data-Science-for-Urban-Climate-Modeling)
+[![IIITH Community Marketplace](https://img.shields.io/badge/IIITH%20Community%20Marketplace-Web%20Portal-purple?style=for-the-badge&logo=github)](https://github.com/atharvv04/IIITH-Community-Marketplace-Portal)
+[![Autonomous Robot](https://img.shields.io/badge/Autonomous%20Robot-Robotics%20,%20Embedded%20Systems-cyan?style=for-the-badge&logo=github)](https://github.com/atharvv04/Autonomous-Obstacle-Avoidance-Robot)
 
 ## 📈 GitHub Activity
 
