@@ -61,13 +61,3 @@ I'm passionate about building intelligent systems at the intersection of **quant
 ---
 
 *Always open to collaborating on interesting projects and discussing ideas in quant finance, AI/ML, and systems engineering!*
-
-
-## 📈 GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvv04/atharvv04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharvv04/atharvv04/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atharvv04/atharvv04/output/github-contribution-grid-snake.svg">
-</picture>
-
